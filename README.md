@@ -1,4 +1,4 @@
-# exlusive-han - alpha version
+# exlusive-han - alpha version | maintance by ☯IMPRESIVΞ
 This is exclusive source - including bypass hb+
 
 ![proof](images/feature.png)
