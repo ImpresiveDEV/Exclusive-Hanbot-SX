@@ -3,3 +3,5 @@ This is exclusive source - including bypass hb+
 
 ![proof](images/feature.png)
 ![proof](images/feature2.png)
+
+there is incoming hanbot V3 - exclusive-han will require an update!
