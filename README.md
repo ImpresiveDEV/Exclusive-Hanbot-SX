@@ -1,4 +1,3 @@
-# exlusive-han - alpha version | maintance by ☯IMPRESIVΞ
 This is exclusive source - including bypass hb+
 ===============================================
 ![proof](images/feature.png)
@@ -18,3 +17,5 @@ NOTE: there is incoming hanbot V3
 *create polymorph to get less detected in league of legends.
 *update bypass for hanbot v3 client authorization.
 *rework application & authentication & bypass & integration with forum.
+
+# exlusive-han - alpha version | maintance by ☯IMPRESIVΞ
