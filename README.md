@@ -1,7 +1,7 @@
 This is exclusive source - including bypass hb+ 
 ===============================================
 
-// OUTDATED AFTER 10.3 LEAGUE PATCH
+//OUTDATED AFTER 10.3 LEAGUE PATCH
 ===============================================
 ![proof](images/feature.png)
 ![proof](images/feature2.png)
