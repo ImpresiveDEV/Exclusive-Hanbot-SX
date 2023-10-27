@@ -9,3 +9,4 @@
 NOTE: there is incoming hanbot V3
 =================================
 # exlusive-han - alpha version | maintance by ☯IMPRESIVΞ
+# New project on: https://discord.gg/dAQCeUr4
