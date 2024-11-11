@@ -37,3 +37,5 @@ Below are some screenshots showing Hanbot in action, demonstrating its key featu
 
 > **Disclaimer:**  
 > This project is for educational purposes only. Misuse of the code could violate the terms of service of the game.
+
+**Description made by AI - Just 4you to understand what HANBOT really was..**
